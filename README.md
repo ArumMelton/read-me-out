@@ -25,7 +25,7 @@
   - Email: arummelton95@gmail.com 
 
   ## Demo Video Link:
-  [https://arummelton.github.io/readmepreview](https://arummelton.github.io/readmepreview/)
+  [https://arummelton.github.io/readmepreview/](https://arummelton.github.io/readmepreview/)
   
   ## Demo Video:
   
