@@ -27,6 +27,12 @@
   ## Demo Video Link:
   [https://arummelton.github.io/readmepreview](https://arummelton.github.io/readmepreview/)
   
+  ## Demo Video:
+  
+  
+
+https://user-images.githubusercontent.com/103224098/184258117-aa12178f-222f-45e9-bb0b-bf0dad9bcfce.mov
+
 
 
 
