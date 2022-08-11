@@ -1,4 +1,4 @@
-// Global require's
+// imports //
 import inquirer from 'inquirer';
 import fs from 'fs';
 import {generateMarkdown} from './utils/generateMarkdown.js';
